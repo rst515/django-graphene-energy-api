@@ -1,0 +1,4 @@
+
+# Local db
+energy/migrations/*
+db.sqlite3
