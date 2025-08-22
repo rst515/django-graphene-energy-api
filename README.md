@@ -15,6 +15,8 @@ Clone the repo
 git clone <repo>
 cd django-graphene-energy-api
 ```
+A `.env` file containing `SECRET_KEY='dummy-secret-key'` is required in the project's root directory. 
+
 Create and run migrations and seed data, then run the server. 
 ```bash
 pip install -r requirements.txt
