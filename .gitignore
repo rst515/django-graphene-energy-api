@@ -1,4 +1,4 @@
-
+.env
 # Local db
 energy/migrations/*
 db.sqlite3
